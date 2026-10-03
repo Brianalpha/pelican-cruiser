@@ -1,0 +1,13 @@
+{
+  "name": "pelican-cruiser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pelican Cruiser - interactive 3D scene of a pelican riding a mint retro bicycle",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node scripts/check.js",
+    "test:browser": "node scripts/browser-test.js"
+  }
+}
